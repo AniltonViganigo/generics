@@ -21,7 +21,6 @@ public class Program {
 
 		}
 		
-		System.out.println();
 		ps.print();
 		System.out.println("First: " + ps.first());
 
