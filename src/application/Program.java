@@ -20,7 +20,8 @@ public class Program {
 			ps.addValue(value);
 
 		}
-
+		
+		System.out.println();
 		ps.print();
 		System.out.println("First: " + ps.first());
 
